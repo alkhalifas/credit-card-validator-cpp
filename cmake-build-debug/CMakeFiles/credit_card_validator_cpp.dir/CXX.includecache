@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Saleh Alkhalifa/Documents/GitHub/credit-card-validator-cpp/main.cpp
+stdio.h
+-
+iostream
+-
+string
+-
+
